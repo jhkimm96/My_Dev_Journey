@@ -2,8 +2,8 @@
 
 - VISUAL STUDIO 로 실습
 - EXTENSION
-    - Live Server : 변경사항을 저장하면 바로 페이지에 적용된다.
-    
-    ![위에 셋팅처럼 바꾸면 저장할때마다 페이지가 새로고침되서 변경된다.](HTML%E1%84%80%E1%85%AA%20CSS%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B8%E1%84%90%E1%85%B3%201fec905fca224efa9241f1fc0c723584/Untitled.png)
-    
+  - Live Server : 변경사항을 저장하면 바로 페이지에 적용된다.
+  
+    <img src="./images/liveserver.png" width="100px" height="50px" title="Github_Logo"/>
+
     위에 셋팅처럼 바꾸면 저장할때마다 페이지가 새로고침되서 변경된다.
