@@ -5,13 +5,13 @@
 1. 다운로드 받기!
 
 <p align = "left">
-<img src="./images/Install_MariaDB.png" width="80%" height="500px" title="MariaDB"/>
+    <img src="./images/Install_MariaDB.png" width="80%" height="500px" title="MariaDB"/>
 </p>
 
 2. cmd 켜서 db 구축 명령하기
 - cd : 경로를 이동
 - . : 현재경로를 나타냄
-- .. : 현재경로에서 상위폴더로
+- .. : 현재경로에서 상위폴더로   <img src = “../../../img/logo.png”/>
 - /w : 목록이 3개씩 표시
 - dir : 현재 경로의 폴더 (디렉토리) 와 파일목록을 보여준다.
 - tab : 경로를 입력할 때 입력한 문자에 대한 유사한 폴더를 입력해준다.

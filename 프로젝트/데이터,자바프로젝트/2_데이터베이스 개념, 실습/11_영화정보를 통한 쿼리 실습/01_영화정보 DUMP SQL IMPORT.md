@@ -54,4 +54,6 @@ passowrd: 0000
 
 ### **DBEAVER 무료 툴로 데이터베이스 연결**
 
-![Untitled](%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AA%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%20DUMP%20SQL%20IMPORT%200fdf1439f5804f06b1f0cbe6ddc55240/Untitled.png)
+<p align = "left">
+<img src="./01_DB_Connect.png" width="80%" height="500px" title="DB_Connect"/>
+</p>

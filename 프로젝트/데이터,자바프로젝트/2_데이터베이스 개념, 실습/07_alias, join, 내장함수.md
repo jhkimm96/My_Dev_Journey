@@ -14,8 +14,9 @@ SELECT
     , M.MOBILE_NO 회원휴대폰
 FROM `member` M
 ```
-
-![Untitled](alias,%20join,%20%E1%84%82%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%2022e1a495a4b34484b88958d2bd6dda12/Untitled.png)
+<p align = "left">
+    <img src="./images/Function_Output.png" width="80%" height="120px" title="Function_Output"/>
+</p>
 
 ## 2. JOIN 문
 
@@ -94,8 +95,9 @@ JOIN MEMBER_DETAIL B
     		  END AS PASSWORD_MASK  
     FROM MEMBER
     ```
-    
-    ![Untitled](alias,%20join,%20%E1%84%82%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%2022e1a495a4b34484b88958d2bd6dda12/Untitled%201.png)
+    <p align = "left">
+        <img src="./images/Alias_Output.png" width="80%" height="120px" title="Alias_Output"/>
+    </p>
     
 
 ### 3.2 숫자형 함수
